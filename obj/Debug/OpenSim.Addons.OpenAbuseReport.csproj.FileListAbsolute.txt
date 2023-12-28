@@ -1,0 +1,8 @@
+D:\OpenSim\opensim-source\bin\OpenSim.OpenAbuseReport.dll.config
+D:\OpenSim\opensim-source\bin\OpenSim.OpenAbuseReport.dll
+D:\OpenSim\opensim-source\bin\OpenSim.OpenAbuseReport.pdb
+D:\OpenSim\opensim-source\OpenSim\Addons\OpenAbuseReport\obj\Debug\OpenSim.Addons.OpenAbuseReport.csproj.AssemblyReference.cache
+D:\OpenSim\opensim-source\OpenSim\Addons\OpenAbuseReport\obj\Debug\OpenSim.Addons.OpenAbuseReport.csproj.CoreCompileInputs.cache
+D:\OpenSim\opensim-source\OpenSim\Addons\OpenAbuseReport\obj\Debug\OpenSim.Addons.OpenAbuseReport.csproj.CopyComplete
+D:\OpenSim\opensim-source\OpenSim\Addons\OpenAbuseReport\obj\Debug\OpenSim.OpenAbuseReport.dll
+D:\OpenSim\opensim-source\OpenSim\Addons\OpenAbuseReport\obj\Debug\OpenSim.OpenAbuseReport.pdb
